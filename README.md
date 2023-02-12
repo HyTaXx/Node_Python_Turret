@@ -1,4 +1,31 @@
-## Projet python tourelle
+# Project Backend
+
+The objective of this project is to operate a turret remotly
+
+## Technologies
+
+This Project Uses :
+
+- Nodejs
+- Python
+
+## Project setup
+
+### download project
+```
+git clone git@github.com:HyTaXx/Node_Python_Turret.git
+```
+
+### start project
+```
+npm install
+```
+
+```
+node server.js
+```
+
+## Projet python turret
 
 <img src="/montage_1.jpg" width="350" title="hover text">
 
@@ -12,5 +39,6 @@
 
 <img src="/schéma_tourelle.png" width="350" title="hover text">
 
-Lien vidéo tourelle
-https://youtu.be/hu65v-Zg9as
+
+[Vidéo Youtube](https://youtu.be/hu65v-Zg9as)
+
