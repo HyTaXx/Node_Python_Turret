@@ -8,6 +8,7 @@ This Project Uses :
 
 - Nodejs
 - Python
+- Javascript
 
 ## Project setup
 
