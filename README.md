@@ -43,3 +43,8 @@ node server.js
 
 [Vidéo Youtube](https://youtu.be/hu65v-Zg9as)
 
+## Collaborators
+
+Armand Nobre
+Jeremy Pelchat
+
